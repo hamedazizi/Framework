@@ -9,7 +9,7 @@ public class ConfigReader {
 
 	Properties pro;
 	public ConfigReader() {
-		try {
+		try {    // it is config reader method
 
 			File src = new File(
 					"C:\\Users\\hamed\\eclipse-workspace_nov_27_18\\Week1st.Automation\\Configuration\\Config.property");
