@@ -1,0 +1,8 @@
+ChromeDriver =D:\\Selenium\\chromedriver.exe
+
+IEDriver= D:\Selenium\IEDriverServer.exe
+
+
+URL = http://www.costco.com
+
+ExcelPath = 
